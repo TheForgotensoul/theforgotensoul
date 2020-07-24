@@ -10,6 +10,21 @@
 
 ### 🏠 [Homepage](https://github.com/TheForgotensoul/theforgotensoul)
 
+## Hello there 👋
+
+ * This Ramesh Chandra
+ *  💻   An ML & Open Source enthusiast.
+ * ⚡    A Electrical and Electronics Engineering Undergraduate .
+ * 👨‍💻   Currently working on some of my cool side projects based on Web Development, Machine Learning and Cyber Security .
+ * 💡    I'm currently looking for opportunities. I love to learn and contribute in any and every possible way.
+ 
+
+## Programming Languages 🌐
+
+Know/Using
+|  [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="python logo" width="50">](https://www.python.org/) | [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bash/bash.png" alt="bash logo" width="50">](https://www.gnu.org/software/bash/) | [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" alt="cpp logo" width="50">](https://isocpp.org/)  | [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png" alt="cpp logo" width="50">](http://www.open-std.org/jtc1/sc22/wg14/)  |
+|:--:|:--:|:--:|:--:|
+
 ## Author
 
 👤 **Theforgotensoul**
@@ -31,8 +46,3 @@ Copyright © 2020 [Theforgotensoul](https://github.com/Theforgotensoul).<br />
 This project is [MIT](https://github.com/TheForgotensoul/theforgotensoul/blob/master/LICENSE) licensed.
 
 ---
-
-_This README was generated with ❤️ by [readme-md-generator](https://github.com/kefranabg/readme-md-generator)_
-
-
-
