@@ -12,7 +12,7 @@
 
 ## Hello there 👋
 
- * This Ramesh Chandra
+ * This is Ramesh Chandra
  *  💻   An ML & Open Source enthusiast.
  * ⚡    A Electrical and Electronics Engineering Undergraduate .
  * 👨‍💻   Currently working on some of my cool side projects based on Web Development, Machine Learning and Cyber Security .
