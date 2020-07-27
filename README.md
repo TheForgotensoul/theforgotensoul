@@ -36,8 +36,8 @@
 |---|---|---|---|---|---|---|
 
 **Learning:**
-| [<img src="https://raw.githubusercontent.com/TheForgotensoul/theforgotensoul/master/img/docker.png" alt="docker logo" width="50">](https://www.docker.com/) |[<img src="https://raw.githubusercontent.com/TheForgotensoul/theforgotensoul/master/img/blender.png" alt="blender logo" width="50">](https://www.blender.org/) | [<img src="https://raw.githubusercontent.com/TheForgotensoul/theforgotensoul/master/img/eagle.png" alt="eagle logo" width="50">](https://www.autodesk.com/products/eagle/overview/) | [<img src="https://raw.githubusercontent.com/TheForgotensoul/theforgotensoul/master/img/jupyter_notebook.png" alt="jupyter notebook logo" width="50">](https://jupyter.org/)| many more...
-|---|---|---|---|---|
+| [<img src="https://raw.githubusercontent.com/TheForgotensoul/theforgotensoul/master/img/docker.png" alt="docker logo" width="50">](https://www.docker.com/) | [<img src="https://raw.githubusercontent.com/TheForgotensoul/theforgotensoul/master/img/git.png" alt="git logo" width="50">](https://git-scm.com/)| [<img src="https://raw.githubusercontent.com/TheForgotensoul/theforgotensoul/master/img/blender.png" alt="blender logo" width="50">](https://www.blender.org/) | [<img src="https://raw.githubusercontent.com/TheForgotensoul/theforgotensoul/master/img/eagle.png" alt="eagle logo" width="50">](https://www.autodesk.com/products/eagle/overview/) | [<img src="https://raw.githubusercontent.com/TheForgotensoul/theforgotensoul/master/img/jupyter_notebook.png" alt="jupyter notebook logo" width="50">](https://jupyter.org/)| many more...
+|---|---|---|---|---|---|
 
 
 ## Author
