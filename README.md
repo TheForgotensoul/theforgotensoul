@@ -42,7 +42,7 @@
 
 ## Author
 
-👤 **Theforgotensoul**
+ 👨‍💼**TheForgotensoul**
 
 You can find and get touch with me on these accounts!
 
