@@ -14,8 +14,8 @@
 
  * This is Ramesh Chandra
  *  💻   An ML & Open Source enthusiast.
- * ⚡    A Electrical and Electronics Engineering Undergraduate .
- * 👨‍💻   Currently working on some of my cool side projects based on Web Development, Machine Learning and Cyber Security .
+ * ⚡    A Electrical and Electronics Engineering Undergraduate.
+ * 👨‍💻   Currently working on some of my cool side projects based on Robotics, Machine Learning and Automation.
  * 💡    I'm currently looking for opportunities. I love to learn and contribute in any and every possible way.
  
 
