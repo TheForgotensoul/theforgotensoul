@@ -22,11 +22,11 @@
 ## Programming Languages 🌐
 
 **Know/Using:**
-|  [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="python logo" width="50">](https://www.python.org/) | [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" alt="cpp logo" width="50">](https://isocpp.org/)  | [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png" alt="c logo" width="50">](http://www.open-std.org/jtc1/sc22/wg14/)  | [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" alt="php logo" width="50">](https://www.php.net/) 
+|  [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="python logo" width="50">](https://www.python.org/) | [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" alt="cpp logo" width="50">](https://isocpp.org/)  | [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png" alt="c logo" width="50">](http://www.open-std.org/jtc1/sc22/wg14/) 
 |:--:|:--:|:--:|:--:|
 
 **Learning:**
-| [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="js logo" width="50">](https://developer.mozilla.org/en-US/docs/Web/JavaScript)  | [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="ts logo" width="50">](https://www.typescriptlang.org/) | [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bash/bash.png" alt="bash logo" width="50">](https://www.gnu.org/software/bash/)|
+| [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="js logo" width="50">](https://developer.mozilla.org/en-US/docs/Web/JavaScript)  | [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bash/bash.png" alt="bash logo" width="50">](https://www.gnu.org/software/bash/)|
 |:--:|:--:|:--:|
 
 ## Tools 🛠️
@@ -36,7 +36,7 @@
 |---|---|---|---|---|---|---|
 
 **Learning:**
-| [<img src="https://raw.githubusercontent.com/TheForgotensoul/theforgotensoul/master/img/docker.png" alt="docker logo" width="50">](https://www.docker.com/) | [<img src="https://raw.githubusercontent.com/TheForgotensoul/theforgotensoul/master/img/git.png" alt="git logo" width="50">](https://git-scm.com/)| [<img src="https://raw.githubusercontent.com/TheForgotensoul/theforgotensoul/master/img/blender.png" alt="blender logo" width="50">](https://www.blender.org/) | [<img src="https://raw.githubusercontent.com/TheForgotensoul/theforgotensoul/master/img/eagle.png" alt="eagle logo" width="50">](https://www.autodesk.com/products/eagle/overview/) | [<img src="https://raw.githubusercontent.com/TheForgotensoul/theforgotensoul/master/img/jupyter_notebook.png" alt="jupyter notebook logo" width="50">](https://jupyter.org/)| many more...
+| [<img src="https://raw.githubusercontent.com/TheForgotensoul/theforgotensoul/master/img/git.png" alt="git logo" width="50">](https://git-scm.com/)| [<img src="https://raw.githubusercontent.com/TheForgotensoul/theforgotensoul/master/img/blender.png" alt="blender logo" width="50">](https://www.blender.org/) | [<img src="https://raw.githubusercontent.com/TheForgotensoul/theforgotensoul/master/img/eagle.png" alt="eagle logo" width="50">](https://www.autodesk.com/products/eagle/overview/) | [<img src="https://raw.githubusercontent.com/TheForgotensoul/theforgotensoul/master/img/jupyter_notebook.png" alt="jupyter notebook logo" width="50">](https://jupyter.org/)| many more...
 |---|---|---|---|---|---|
 
 
